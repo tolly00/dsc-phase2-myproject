@@ -21,7 +21,9 @@ After seing all the big company creating original video content and the want ti 
 * What is the best types accordingly both parameters, audience and liked?
 
 ### Visualization
-![images](images/injuries.png)
+![images](images/genre_votes.png)
+![images](images/genre_avg.png)
+![images](images/best_notes.png)
   
 ## Conclusion
 After analyzing both audience engagement (number of votes) and audience appreciation (average rating), we find that the films performing best at the box office typically fall into a few key genre categories. **Drama, Action, Adventure, Comedy and Thriller genres** consistently receive the highest number of votes, indicating mass appeal and strong box office potential. At the same time, genres like **Documentary, short, Game-show and well-executed hybrid genres** tend to earn higher average ratings, reflecting deeper viewer satisfaction and long-term value.
